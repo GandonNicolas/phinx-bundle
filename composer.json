@@ -10,7 +10,7 @@
         }
     },
     "require": {
-        "php": ">=8.0",
+        "php": "^7.1|^8.0",
         "robmorgan/phinx": "^0.10|^0.11",
         "symfony/framework-bundle": "^4.3"
     },
